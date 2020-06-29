@@ -3,7 +3,7 @@ export interface Voo {
     destino: aeroporto;
 	partida: aeroporto;
 	usuarios: usuario[];
-	descricao: string;
+	
 	custo_adulto: number;
 	custo_meia: number;
 	data_hora_de_ida_partida: String; 
